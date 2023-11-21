@@ -1,0 +1,10 @@
+C:\Users\NaNa\Desktop\Hiver2023\ApplicationTransactionnelle\prjWinCsProjet1\prjWinCsProjet1\bin\Debug\prjWinCsProjet1.exe.config
+C:\Users\NaNa\Desktop\Hiver2023\ApplicationTransactionnelle\prjWinCsProjet1\prjWinCsProjet1\bin\Debug\prjWinCsProjet1.exe
+C:\Users\NaNa\Desktop\Hiver2023\ApplicationTransactionnelle\prjWinCsProjet1\prjWinCsProjet1\bin\Debug\prjWinCsProjet1.pdb
+C:\Users\NaNa\Desktop\Hiver2023\ApplicationTransactionnelle\prjWinCsProjet1\prjWinCsProjet1\obj\Debug\prjWinCsProjet1.csproj.AssemblyReference.cache
+C:\Users\NaNa\Desktop\Hiver2023\ApplicationTransactionnelle\prjWinCsProjet1\prjWinCsProjet1\obj\Debug\prjWinCsProjet1.Form1.resources
+C:\Users\NaNa\Desktop\Hiver2023\ApplicationTransactionnelle\prjWinCsProjet1\prjWinCsProjet1\obj\Debug\prjWinCsProjet1.Properties.Resources.resources
+C:\Users\NaNa\Desktop\Hiver2023\ApplicationTransactionnelle\prjWinCsProjet1\prjWinCsProjet1\obj\Debug\prjWinCsProjet1.csproj.GenerateResource.cache
+C:\Users\NaNa\Desktop\Hiver2023\ApplicationTransactionnelle\prjWinCsProjet1\prjWinCsProjet1\obj\Debug\prjWinCsProjet1.csproj.CoreCompileInputs.cache
+C:\Users\NaNa\Desktop\Hiver2023\ApplicationTransactionnelle\prjWinCsProjet1\prjWinCsProjet1\obj\Debug\prjWinCsProjet1.exe
+C:\Users\NaNa\Desktop\Hiver2023\ApplicationTransactionnelle\prjWinCsProjet1\prjWinCsProjet1\obj\Debug\prjWinCsProjet1.pdb
